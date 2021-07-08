@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.AntilatencyDeviceNetwork.cppa7.o",
+		"Module.AntilatencyDeviceNetwork.cppa8.o",
+		"Module.AntilatencyDeviceNetwork.gen.cppa7.o",
+		"Module.AntilatencyDeviceNetwork.gen.cppa8.o"
+	]
+}
