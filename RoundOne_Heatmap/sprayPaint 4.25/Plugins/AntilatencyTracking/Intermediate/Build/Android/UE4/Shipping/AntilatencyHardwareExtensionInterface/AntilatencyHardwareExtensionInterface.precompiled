@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.AntilatencyHardwareExtensionInterface.cppa7.o",
+		"Module.AntilatencyHardwareExtensionInterface.cppa8.o",
+		"Module.AntilatencyHardwareExtensionInterface.gen.cppa7.o",
+		"Module.AntilatencyHardwareExtensionInterface.gen.cppa8.o"
+	]
+}
