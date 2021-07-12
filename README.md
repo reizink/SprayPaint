@@ -22,13 +22,14 @@ Anti-latency project in Unreal Engine
 (with and without anti-latency)
 _________________________________
 
-#### Cartoony Spray paint Project:
+#### Cartoony Spray paint Project (spary map):
 - Speckled Conrete wall
 - Colors: Blue, Red, Green, Yellow, Random
 - Paint Drip is a fade-in decal
 - Distance from wall origin changes paint spray size
+- **(Anti-latency version available)**
 
-#### Realistic Spray paint Project Round 1: Added Heat Map
+#### Realistic Spray paint Project Round 1: Added Heat Map (HeatmapSpray map)
 - Speckled Conrete wall
 - Colors: Blue, Red, Green, Yellow, Random
 - Paint Drip is a fade-in decal
