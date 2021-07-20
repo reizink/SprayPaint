@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.AntilatencyTrackingAlignment.cppa7.o",
+		"Module.AntilatencyTrackingAlignment.cppa8.o",
+		"Module.AntilatencyTrackingAlignment.gen.cppa7.o",
+		"Module.AntilatencyTrackingAlignment.gen.cppa8.o"
+	]
+}
