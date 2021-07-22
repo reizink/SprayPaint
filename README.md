@@ -4,6 +4,9 @@ ________________________________
 Anti-latency project in Unreal Engine
 **Unreal Engine 4.25.4** (Newest Version Anti-latency SDK Works with)
 
+*** NOTE: ***
+If WallBP gets recompiled, paint material reference will have to be recopied from WallBP in hierarchy to the VRPawn paint reference.
+
 ### Non Anti-Latency Controls:
 
 - WASD: Move Paint Can
