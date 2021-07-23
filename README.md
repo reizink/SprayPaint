@@ -27,34 +27,34 @@ Anti-latency project in Unreal Engine
 (with and without anti-latency)
 _________________________________
 
-#### Cartoony Spray paint Project (spary map):
+#### Cartoony Spray Paint Project (spray map):
 - Speckled Conrete wall
 - Colors: Blue, Red, Green, Yellow, Random
 - Paint Drip is a fade-in decal
 - Distance from wall origin changes paint spray size
 - **(Anti-latency version available)**
 
-#### Realistic Spray paint Project Round 1: Added Heat Map (HeatmapSpray map)
+#### Spray Paint Project Round 1: Added Heat Map (HeatmapSpray map)
 - Speckled Conrete wall
 - Colors: Blue, Red, Green, Yellow, Random
 - Paint Drip is a fade-in decal
 - Distance from wall origin changes paint spray size
 - Build up of paint is stored in heat map (second render texture + material)
 
-#### Realistic Spray paint Project Round 2: (HeatmapSpray map)
+#### Spray Paint Project Round 2: (HeatmapSpray map)
 - Speckled Conrete wall
 - Colors: Blue, Red, Green, Yellow, Random
 - Paint Drip particles WIP
 - Build up of paint is stored in heat map (second render texture + material)
 
-#### Realistic Spray paint Project Round 3: UE4.26 (HeatmapSpray map)
-- Cobble stone curved wall
+#### Realistic Spray Paint Project Round 3: UE4.26 (HeatmapSpray map)
+- Cobblestone curved wall
 - Colors: Blue, Red, Green, Yellow, Random
 - Paint Drip particles, testing Niagara/not fully implemented
 - Build up of paint is stored in heat map with size
 - Working camera mimic for heat map
 - Gets color from heat map for drip
-- antilatency not installed yet
+- antilatency not implemented but installled
 
 _________________________________
 
