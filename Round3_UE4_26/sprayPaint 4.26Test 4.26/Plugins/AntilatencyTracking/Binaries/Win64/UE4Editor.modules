@@ -1,0 +1,13 @@
+{
+	"BuildId": "13144385",
+	"Modules": 
+	{
+		"AntilatencyAltTracking": "UE4Editor-AntilatencyAltTracking.dll",
+		"AntilatencyBracer": "UE4Editor-AntilatencyBracer.dll",
+		"AntilatencyDeviceNetwork": "UE4Editor-AntilatencyDeviceNetwork.dll",
+		"AntilatencyHardwareExtensionInterface": "UE4Editor-AntilatencyHardwareExtensionInterface.dll",
+		"AntilatencyRadioMetrics": "UE4Editor-AntilatencyRadioMetrics.dll",
+		"AntilatencyStorageClient": "UE4Editor-AntilatencyStorageClient.dll",
+		"AntilatencyTrackingAlignment": "UE4Editor-AntilatencyTrackingAlignment.dll"
+	}
+}
