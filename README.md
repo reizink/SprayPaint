@@ -1,11 +1,12 @@
 # SprayPaint
 ## Wall Graffiti Simulation
 ________________________________
-Anti-latency project in Unreal Engine
-**Unreal Engine 4.25.4** (Cartoon WIP - Round2, Anti-latency 2.1.0)
-**Unreal Engine 4.26.2** (Round3, Anti-latency 3.1.0)
 
-### *** NOTEs: ***
+Anti-latency project in Unreal Engine
+- **Unreal Engine 4.25.4** (Cartoon WIP - Round2, Anti-latency 2.1.0)
+- **Unreal Engine 4.26.2** (Round3, Anti-latency 3.1.0)
+
+### *** NOTE: ***
 -If WallBP gets recompiled or spray size doesn't scale by distance, Paint MID Ref will have to be recopied from WallBP in hierarchy to the VRPawn paint reference.
 
 ### Non Anti-Latency Controls:
