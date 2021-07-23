@@ -7,6 +7,10 @@
 		{
 			"Name": "AntilatencyTracking",
 			"Enabled": false
+		},
+		{
+			"Name": "AntilatencySDK",
+			"Enabled": true
 		}
 	]
 }

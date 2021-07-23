@@ -1,8 +1,0 @@
-{
-	"OutputFiles": [
-		"Module.AntilatencyRadioMetrics.cppa7.o",
-		"Module.AntilatencyRadioMetrics.cppa8.o",
-		"Module.AntilatencyRadioMetrics.gen.cppa7.o",
-		"Module.AntilatencyRadioMetrics.gen.cppa8.o"
-	]
-}

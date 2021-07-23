@@ -1,8 +1,0 @@
-{
-	"OutputFiles": [
-		"Module.AntilatencyStorageClient.cppa7.o",
-		"Module.AntilatencyStorageClient.cppa8.o",
-		"Module.AntilatencyStorageClient.gen.cppa7.o",
-		"Module.AntilatencyStorageClient.gen.cppa8.o"
-	]
-}

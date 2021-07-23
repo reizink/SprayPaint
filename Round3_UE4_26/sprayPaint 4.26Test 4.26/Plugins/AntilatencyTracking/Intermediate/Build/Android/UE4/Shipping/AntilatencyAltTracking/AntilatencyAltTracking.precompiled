@@ -1,8 +1,0 @@
-{
-	"OutputFiles": [
-		"Module.AntilatencyAltTracking.cppa7.o",
-		"Module.AntilatencyAltTracking.cppa8.o",
-		"Module.AntilatencyAltTracking.gen.cppa7.o",
-		"Module.AntilatencyAltTracking.gen.cppa8.o"
-	]
-}
