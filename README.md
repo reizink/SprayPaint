@@ -21,7 +21,8 @@ Anti-latency project in Unreal Engine
   - 3: Green
   - 4: Yellow
   - E: Random
-- P: Get Paint Thickness from Heat Map (works in later versions)
+- P: Get Paint Thickness/Stored Color from Heat Map (works in later versions)
+- R: Get Camera Rotation from Wall
 
 ### Project Iterations 
 (with and without anti-latency)
