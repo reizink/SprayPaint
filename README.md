@@ -51,22 +51,20 @@ _________________________________
 #### Realistic Spray Paint Project Round 3: UE4.26 (HeatmapSpray map)
 - Cobblestone curved wall
 - Colors: Blue, Red, Green, Yellow, Random
-- Paint Drip particles, testing Niagara/not fully implemented
+- Working Paint Drip, testing Niagara (Niagara particles don't draw to RT)
 - Build up of paint is stored in heat map with size
 - Working camera mimic for heat map
 - Gets color from heat map for drip
 - antilatency not implemented but installled
+- Organized BP
+- ColorCollider boxes to change paint color w/o keys
 
 _________________________________
 
 #### In Progress:
 
-- Dynamic drip particles drawing to render texture
+- Niagara particles drawing to render texture?
 - Antilatency w/ new version
-- Angled spray can
-
-
-
 
 
 
